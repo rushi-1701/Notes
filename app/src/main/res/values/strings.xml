@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="notes">Notes</string>
+    <string name="create_your_first_note">Create your first note !</string>
+</resources>
